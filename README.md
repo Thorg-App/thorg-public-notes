@@ -1,1 +1,0 @@
-# thorg-public-notes
