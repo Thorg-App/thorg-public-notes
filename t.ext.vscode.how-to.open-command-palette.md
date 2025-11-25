@@ -2,7 +2,7 @@
 id: i2d0vfbid60oitbfc6hbxmg
 title: 'How to: Open Command Palette'
 desc: ''
-updated: 1762446751716
+updated: 1764090421367
 created: 1762438105915
 ---
 
@@ -12,6 +12,10 @@ By default, the command palette is bound to the `Ctrl+Shift+P` shortcut. Per VSC
 ```txt
 workbench.action.showCommands
 ```
+Change it through [[t.ext.vscode.how-to.change-your-keybindings-json]]
 
-### Name in Keybindings
-In the keybindings configuration, the name is `Show All Command`
+### Through Menu
+You can find this command pallete by going through top level menu `View -> Command Pallete...`
+
+### Name in Keybindings UI
+In the keybindings UI configuration, the name is `Show All Commands`
