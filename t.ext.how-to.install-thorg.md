@@ -2,10 +2,9 @@
 id: udvbjwwpnih8ox8k8g624dz
 title: Install Thorg
 desc: ''
-updated: 1762902830352
+updated: 1764184560044
 created: 1762451483739
 ---
-
 
 ### Pre-Requisites
 
@@ -28,5 +27,9 @@ created: 1762451483739
 </details>
 
 
-### How to install:
-TODO: Add S3 link to download and instructions on how to install the VSIX file.
+### Installation steps
+- Download the latest Thorg release from S3 (Or if required due to an issue see: [[t.ext.how-to.install-thorg.previous-releases]])
+![[t.ext.how-to.install-thorg.latest-release]]
+
+- Then follow the steps on [[t.ext.how-to.install-thorg.how-to-install-VSIX-file]]
+
