@@ -6,11 +6,7 @@ updated: 1762817895711
 created: 1758379371632
 ---
 
-This is the [port](https://en.wikipedia.org/wiki/Port_(computer_networking)) on which [[Thorg Server|t.ext.thorgServer]] will run.
+This is the [port](https://en.wikipedia.org/wiki/Port_(computer_networking)) on which [[Thorg Server|t.ext.thorgServer]] runs.
 
-### How to configure
-[[t.ext.configuration.values.startupSetup.serverPort]]
-
-### QA
-#### Why not auto-pick port on startup?
-We use a stable port to make it easier to interact with Thorg Server outside of VSCode in the future.
+### How Port is Determined
+The port is dynamically allocated when the Thorg server starts up. The server finds an available port and writes it to [[t.ext.data.type.workspace.thorg-dir.tmp.server.instance.port-file]].

@@ -14,6 +14,8 @@ Located at `$WORKSPACE/.thorg/tmp/server/instance/server.port` when a Thorg serv
 
 This file is deleted when the server terminates gracefully.
 
+### How Port is Determined
+The port is dynamically allocated when the Thorg server starts up. The server finds an available port and writes it to this file.
+
 ### Related
 - [[t.ext.thorgServer.default-port]]
-- [[rel.configured-by]]:**[[t.ext.configuration.values.startupSetup.serverPort]]**
