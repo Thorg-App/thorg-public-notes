@@ -2,30 +2,29 @@
 id: vtb96viey5ziprbtah44g51
 title: Thorg (Thought Organizer)
 desc: ''
-updated: 1764818438672
+updated: 1764819656344
 created: 1735227165634
 private_note: >-
   For now this is going to be exposed on https://notes.thorg.app Hence keep this
   to external notes only and go to [[t.doc.internal]] for internal notes
 ---
 
-Welcome to **Thorg** (Thought Organizer)!
+<div class="centered">
 
-**Thorg** is available as it's own **[VSCode](https://code.visualstudio.com)** Plugin for knowledge management using [[hierarchical|t.ext.data.type.note.hierarchy]] markdown files. Local-first. Built for **scale** using multi-threaded Kotlin server for core logic. **Compatible** to be used alongside **[Dendron](https://www.dendron.so/)** plugin.
+Welcome to **Thorg**!
+</div>
+
+**Thorg** is a **[VSCode](https://code.visualstudio.com)** plugin for knowledge management using [[hierarchical|t.ext.data.type.note.hierarchy]] [markdown](https://en.wikipedia.org/wiki/Markdown) files with [[frontmatter|t.ext.data.type.note.frontmatter]] metadata, called [[notes|t.ext.data.type.note]]. Local-first and built for **scale** with a multi-threaded Kotlin server handling core logic. **Compatible** with the **[Dendron](https://www.dendron.so/)** plugin. Currently adding stronger **search** functionality (see [[t.ext._.highlighted-commands]]). All exposed functionality is **free**.
 
 
-We are in the **early stages** of the product (even though it took quite a bit of development effort to get here).
-But even at this early stage, if you are a current [Dendron](https://www.dendron.so/) user, we believe there is value in giving Thorg a try. We are working to fill the gaps to make Thorg fully standalone, and to implement more exciting features around the three pillars that **Thorg** focuses on:
-- Search
-- Visualization
-- Refactoring
+## How to install Thorg
+![[t.ext.how-to.install-thorg]]
 
+## Highlighted commands
 The following commands (and more) are available to try out now:
 
 ![[t.ext._.highlighted-commands]]
 
-## How to install Thorg
-![[t.ext.how-to.install-thorg]]
 
 ## How to reach out
 ![[t.ext.contact-us]]

@@ -2,7 +2,7 @@
 id: udvbjwwpnih8ox8k8g624dz
 title: Install Thorg
 desc: ''
-updated: 1764648373014
+updated: 1764819712415
 created: 1762451483739
 ---
 
@@ -14,7 +14,7 @@ created: 1762451483739
 <details class="bordered-when-open">
 <summary>You currently use Dendron</summary>
 
-- Why: We are working to fill the gaps to make Thorg run standalone, but right now we rely on Dendron for some functionality that Thorg has not exposed yet (such as note creation).
+- Why: We are working to fill the gaps to make Thorg run standalone, but right now we rely on [Dendron](https://www.dendron.so/) for some functionality that Thorg has not exposed yet (such as note creation).
 </details>
 
 <details class="bordered-when-open">
@@ -28,7 +28,7 @@ created: 1762451483739
 
 
 ### Installation steps
-- Download the [[latest|t.ext.how-to.install-thorg.latest-release]] Thorg release from S3 (Or if required due to an issue see: [[t.ext.how-to.install-thorg.previous-releases]])
+- Download the [[latest|t.ext.how-to.install-thorg.latest-release]] Thorg release (Or if required due to an issue see: [[t.ext.how-to.install-thorg.previous-releases]])
 ![[t.ext.how-to.install-thorg.latest-release]]
 
 - Then follow the steps on [[t.ext.how-to.install-thorg.how-to-install-VSIX-file]]

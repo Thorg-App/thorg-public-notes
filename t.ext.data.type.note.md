@@ -2,15 +2,14 @@
 id: kdxjdpvdevmblpn3zkfywz1
 title: Note
 desc: ''
-updated: 1746032305873
+updated: 1764819513953
 created: 1688614727738
 ---
 
-<div class="centered">
+<div class="centered xlarge">
 
-In short: A Thorg note is a [Markdown](https://en.wikipedia.org/wiki/Markdown) file with [YAML](https://en.wikipedia.org/wiki/YAML) [FrontMatter](https://jekyllrb.com/docs/front-matter/) that contains a globally unique `id` field.
+In short: A Thorg note is a [Markdown](https://en.wikipedia.org/wiki/Markdown) file with [[t.ext.data.type.note.frontmatter]] that contains a globally unique `id` field.
 </div>
-
 
 
 ### Frontmatter

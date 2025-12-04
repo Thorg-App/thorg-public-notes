@@ -1,8 +1,8 @@
 ---
 id: f52js9d921s0tktii23sxbe
-title: how-to-install-VSIX-file to VSCode
+title: How to install VSIX file as VSCode Plugin
 desc: ''
-updated: 1764185114565
+updated: 1764819726183
 created: 1764184560373
 ---
 
