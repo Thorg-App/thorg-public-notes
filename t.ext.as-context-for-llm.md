@@ -2,7 +2,7 @@
 id: 9ap330mxc237bajwbarxmbl
 title: Thorg Documentation As Context for LLM
 desc: ''
-updated: 1764108792735
+updated: 1764779545614
 created: 1762439269029
 ---
 
@@ -14,3 +14,6 @@ This **[single file](https://raw.githubusercontent.com/Thorg-App/thorg-public-no
 
 ![[t.ext.as-context-for-llm.public-repo]]
 </details>
+
+### Tip:
+- [GoogleAI Studio](https://aistudio.google.com) is free as of this writing and has large context window.
