@@ -2,15 +2,11 @@
 id: udvbjwwpnih8ox8k8g624dz
 title: Install Thorg
 desc: ''
-updated: 1764819712415
+updated: 1766102722912
 created: 1762451483739
 ---
 
 ### Pre-Requisites
-
-- You use **MacOS** or **Linux** (No Windows support yet)
-  - If you would like us to prioritize adding Windows support, vote [[here|t.ext.contact-us.submit-git-hub-issue.highlighted-known-issue.no-windows-support-yet]]
-
 <details class="bordered-when-open">
 <summary>You currently use Dendron</summary>
 

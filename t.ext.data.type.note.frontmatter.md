@@ -1,8 +1,8 @@
 ---
 id: fp4vpkaic0dpycbys06g6xv
-title: Frontmatter Documentation
+title: Frontmatter
 desc: ''
-updated: 1764819440754
+updated: 1764865138085
 created: 1743121848077
 ---
 
