@@ -2,7 +2,7 @@
 id: n9wze80hj1v1hgnp60sk0cl
 title: Setup of Thorg Shortcuts
 desc: ''
-updated: 1762814577538
+updated: 1767652042879
 created: 1762533792770
 ---
 
@@ -31,14 +31,14 @@ Before we get into the suggested shortcuts, let's make a small keyboard adjustme
 
 Now that CTRL lives on the home row and we can use `CTRL+<SomeKey>` shortcuts with ease, let's start with our first multi-chord entry point: `CTRL+t`
 
-![[t.ext._.setup-of-shortcuts.ctrl-t-setup]]
+![[t.ext.bkt.setup-of-shortcuts.ctrl-t-setup]]
 
-![[t.ext._.setup-of-shortcuts.ctrl-y-setup]]
+![[t.ext.bkt.setup-of-shortcuts.ctrl-y-setup]]
 
 <details class="bordered">
 <summary>Quick search with updated-since, shortcut setup</summary>
 
-![[t.ext._.setup-of-shortcuts.updated-since-setup]]
+![[t.ext.bkt.setup-of-shortcuts.updated-since-setup]]
 </details>
 
 

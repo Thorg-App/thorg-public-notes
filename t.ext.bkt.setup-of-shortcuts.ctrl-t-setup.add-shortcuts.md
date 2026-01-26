@@ -9,7 +9,7 @@ created: 1762541680405
 `CTRL+t` is used as the entry point for primary Thorg commands. Think of `CTRL+t` as meaning `Thorg` for most commands you assign under it.
 
 ### Pre-Req
-- [[CTRL+t has been freed|t.ext._.setup-of-shortcuts.ctrl-t-setup.free-ctrl-t]]
+- [[CTRL+t has been freed|t.ext.bkt.setup-of-shortcuts.ctrl-t-setup.free-ctrl-t]]
 
 ### Add CTRL+t Thorg Shortcuts
 Add the following to your [[keybindings.json|t.ext.vscode.how-to.change-your-keybindings-json]]:
@@ -85,5 +85,5 @@ The following are descriptions of the shortcuts added to [[keybindings.json|t.ex
 <details class="bordered-when-open">
 <summary>Why use visited-since and not updated-since for primary shortcuts?</summary>
 
-![[t.ext._.setup-of-shortcuts.ctrl-t-setup.add-shortcuts.why-favor-visited-since]]
+![[t.ext.bkt.setup-of-shortcuts.ctrl-t-setup.add-shortcuts.why-favor-visited-since]]
 </details>

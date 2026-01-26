@@ -1,9 +1,11 @@
 ---
 id: bgw0e6g9z3v6nwqh1cikzhe
-title: 'Quick Search, Visited Since'
+title: Quick Search, Visited Since
 desc: ''
-updated: 1762816856026
+updated: 1767652040871
 created: 1762462004145
+ap:
+  ts_cmd_definition: anchor_point.bf1QRjPbUgswfgdfYgR5EMmp.E
 ---
 
 [[Searches|t.ext.command.search._.search-definition]] across notes filtered to those [[visited|t.ext.data.type.note.visited]] within specific time ranges (varies by command).
@@ -32,7 +34,7 @@ thorg.search.quick.visited-since.2-years-ago
 
 ### Also see
 #### Shortcuts
-- [[t.ext._.setup-of-shortcuts.ctrl-t-setup]]
+- [[t.ext.bkt.setup-of-shortcuts.ctrl-t-setup]]
 
 #### Similar commands
 - [[t.ext.command.search.quick.in-subtree.visited-since]]

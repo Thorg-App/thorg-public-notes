@@ -1,14 +1,14 @@
 ---
 id: rqpzs1z92lkzz79d8pjltdj
-title: 'Remember to Review Scripts from Internet Prior to Running Them'
+title: Remember to Review Scripts from Internet Prior to Running Them
 desc: ''
-updated: 1763518555084
+updated: 1767920163656
 created: 1763516715377
 ---
 
 Remember to review scripts from internet prior to running them! 
 
-Whenever you encounter someone on the internet asking you to run a script like
+Whenever you encounter some tutorial on the internet asking you to run a script like
 
 ```bash
 curl -fsSL https://some-script.sh | bash 

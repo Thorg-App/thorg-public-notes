@@ -2,12 +2,12 @@
 id: tyjmcmzgygfacc0812p840u
 title: Vault Name Is Not Read from Dendron Yaml
 desc: ''
-updated: 1748974009997
+updated: 1767734111568
 created: 1748972556959
 ---
 
 
-Vault names are **now derived solely from the vault's folder name** and are **no longer** read from `dendron.yml`. (See [[t.ext.data.type.vault.name]])
+Vault names are **now derived solely from the vault's folder name** and are **no longer** read from `dendron.yml`. (See [[t.ext.data.type.vault.property.name]])
 
 Most users won't be affected by this change, as vault names usually already match their corresponding folder names. However, if the `name` property in your `dendron.yml` configuration doesn't match your vault's folder name, an adjustment is needed for smooth operation with Thorg.
 

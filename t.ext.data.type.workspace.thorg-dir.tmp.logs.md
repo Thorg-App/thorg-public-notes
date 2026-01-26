@@ -1,8 +1,8 @@
 ---
 id: tdmvkl8kc4l9x67wmnb1gde
-title: $WORKSPACE/.thorg/tmp/logs
+title: $THORG_WORKSPACE/.thorg/tmp/logs
 desc: ''
-updated: 1763162563559
+updated: 1767651415057
 created: 1760402847520
 ap:
   kt: anchor_point.mmcV12TXjT6weQie9vbuTEYV.E

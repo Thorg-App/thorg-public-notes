@@ -1,8 +1,8 @@
 ---
 id: 933leay521j520e24wvpxjd
-title: 'Quick Search, In Subtree, Visited Since'
+title: Quick Search, In Subtree, Visited Since
 desc: ''
-updated: 1763064292698
+updated: 1767652042253
 created: 1762445192552
 ---
 
@@ -36,7 +36,7 @@ thorg.search.quick.in-subtree.visited-since.2-years-ago
 
 ### Also see
 #### Shortcuts
-- [[t.ext._.setup-of-shortcuts.ctrl-y-setup]]
+- [[t.ext.bkt.setup-of-shortcuts.ctrl-y-setup]]
 
 #### Related Tips
 ![[t.ext.command.search.quick.in-subtree._.tip]]

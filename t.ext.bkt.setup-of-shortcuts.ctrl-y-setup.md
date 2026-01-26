@@ -9,12 +9,12 @@ created: 1762546857595
 <details class="bordered">
 <summary>Free CTRL+y</summary>
 
-![[t.ext._.setup-of-shortcuts.ctrl-y-setup.free-ctrl-y]]
+![[t.ext.bkt.setup-of-shortcuts.ctrl-y-setup.free-ctrl-y]]
 </details>
 
 
 <details class="bordered">
 <summary>Add Thorg CTRL+y shortcuts</summary>
 
-![[t.ext._.setup-of-shortcuts.ctrl-y-setup.add-ctrl-h-shortcuts]]
+![[t.ext.bkt.setup-of-shortcuts.ctrl-y-setup.add-ctrl-h-shortcuts]]
 </details>

@@ -1,8 +1,8 @@
 ---
 id: yyr3s3ht5ho5hq7ur4qzcv7
-title: $WORKSPACE/.thorg/tmp/server (directory for temporary server files)
+title: $THORG_WORKSPACE/.thorg/tmp/server (directory for temporary server files)
 desc: ''
-updated: 1763064783144
+updated: 1767651415060
 created: 1748554959709
 ---
 

@@ -2,8 +2,11 @@
 id: dlmzh8fzpgfvujmarcr4yvq
 title: 'Auto-unfocus: Automatically Records UNFOCUS after a period of inactivity.'
 desc: ''
-updated: 1762553255345
+updated: 1769443820373
 created: 1757089116548
+ap:
+    impl: anchor_point.kZEqgOpxYrKcwNw6VeqdwbE1.E
+    test_case: anchor_point.0CZCCWa6jqTGdPI0lOS4epk0.E
 ---
 
 If you open a note and then stop interacting with it, after a period of inactivity we will automatically record an `UNFOCUS` [[visit event|t.ext.feature.visit-history.visit-event]] (default: **180 seconds** of inactivity).

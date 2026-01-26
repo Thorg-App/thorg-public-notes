@@ -1,8 +1,8 @@
 ---
 id: tdwdqj2qj657ikmn7t4wooi
-title: $WORKSPACE/.thorg/tmp/server/instance
+title: $THORG_WORKSPACE/.thorg/tmp/server/instance
 desc: ''
-updated: 1764949128995
+updated: 1767651415055
 created: 1748555001962
 ---
 

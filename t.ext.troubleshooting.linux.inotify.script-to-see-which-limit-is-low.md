@@ -2,7 +2,7 @@
 id: jsfr19a17fji2delxpiwtvm
 title: Script to See Which Inotify Limit Is Low
 desc: ''
-updated: 1763518265453
+updated: 1767652039663
 created: 1763513633889
 ---
 
@@ -21,4 +21,4 @@ fs.inotify.max_user_instances = 256
 fs.inotify.max_queued_events = 16384
 ```
 
-If you want to get the actual limits used, that is not as straightforward and requires some scripting. You can see some options [here](https://unix.stackexchange.com/a/502359/364768), (Also remember [[t.ext._.review-script-prior-to-running-them]])
+If you want to get the actual limits used, that is not as straightforward and requires some scripting. You can see some options [here](https://unix.stackexchange.com/a/502359/364768), (Also remember [[t.ext.bkt.review-script-prior-to-running-them]])

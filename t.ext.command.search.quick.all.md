@@ -2,7 +2,7 @@
 id: kotw7xkxu8lvessrz35p1pk
 title: Quick Search All
 desc: ''
-updated: 1763064347271
+updated: 1767652040871
 created: 1757100354466
 ---
 
@@ -20,7 +20,7 @@ thorg.search.quick.all
 
 ### Also see
 #### Shortcuts
-- [[t.ext._.setup-of-shortcuts.ctrl-t-setup]]
+- [[t.ext.bkt.setup-of-shortcuts.ctrl-t-setup]]
 
 ### Related Tips
 ![[t.ext.command.search.quick._.tip]]

@@ -2,8 +2,10 @@
 id: n1z4f4vgtbg00dxh7o5cwen
 title: Finding Workspace - How thorg determines workspace directory
 desc: ''
-updated: 1762440007155
+updated: 1767650917557
 created: 1748976526111
+ap:
+  workspace_finder: anchor_point.hfNZT6vZuozVbkCyaU5lqYNU.E
 ---
 
 On startup, Thorg needs to find your [[t.ext.data.type.workspace]] directory.

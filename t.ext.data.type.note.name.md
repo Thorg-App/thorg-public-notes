@@ -2,8 +2,10 @@
 id: 0j9jbeegeekkgh3facwp5tq
 title: Note Name
 desc: ''
-updated: 1749077490273
+updated: 1767738301819
 created: 1689993739135
+ap: 
+    nk_env_shell_extraction_of_name: "anchor_point.XiqXc53IJn8mqxmGTafK9Cig.E"
 ---
 
 Note name is how you reference other notes using wiki links and how you establish note hierarchies.

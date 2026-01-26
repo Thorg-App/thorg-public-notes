@@ -2,7 +2,7 @@
 id: unwobg6slfsie92l4gss9iu
 title: Why use visited-since and not updated-since for primary shortcuts
 desc: ''
-updated: 1762547330452
+updated: 1767652045668
 created: 1762545424540
 ---
 
@@ -16,4 +16,4 @@ You could visit and stay at a note for a prolonged period **without** making mod
 
 
 #### Also see
-- [[t.ext._.setup-of-shortcuts.ctrl-t-setup.add-shortcuts.why-favor-visited-since.when-updated-since-can-be-better]]
+- [[t.ext.bkt.setup-of-shortcuts.ctrl-t-setup.add-shortcuts.why-favor-visited-since.when-updated-since-can-be-better]]

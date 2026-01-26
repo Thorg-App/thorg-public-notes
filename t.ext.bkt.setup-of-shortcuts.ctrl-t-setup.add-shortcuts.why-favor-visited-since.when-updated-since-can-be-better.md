@@ -2,11 +2,11 @@
 id: mtzw0bhl3886mfhy3yh4rex
 title: When Updated since Can Be Better Than Visited-Since
 desc: ''
-updated: 1762548040086
+updated: 1767652045251
 created: 1762547298025
 ---
 
-While for most use cases we expect visited-since commands to be the preferred time-based search filter ([[see why|t.ext._.setup-of-shortcuts.ctrl-t-setup.add-shortcuts.why-favor-visited-since]]), there are times when updated-since commands such as:
+While for most use cases we expect visited-since commands to be the preferred time-based search filter ([[see why|t.ext.bkt.setup-of-shortcuts.ctrl-t-setup.add-shortcuts.why-favor-visited-since]]), there are times when updated-since commands such as:
 - [[t.ext.command.search.quick.updated-since]]
 - [[t.ext.command.search.quick.in-subtree.updated-since]]
 

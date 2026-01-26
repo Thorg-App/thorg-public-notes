@@ -1,15 +1,15 @@
 ---
 id: bd8lpwe6w6pv4c0trzcawds
-title: $WORKSPACE/.thorg/tmp
+title: $THORG_WORKSPACE/.thorg/tmp
 desc: ''
-updated: 1763063903993
+updated: 1767651415056
 created: 1748477365455
 ap:
   kt: anchor_point.zmfkE9Hrpycb7sYcWwLHkO4n.E
   ts: anchor_point.bFEdaUHY7zXLLUY8bWlql0pG.E
 ---
 
-`$WORKSPACE/.thorg/tmp`
+`$THORG_WORKSPACE/.thorg/tmp`
 
 🚫 **Exclude from source control**.
 

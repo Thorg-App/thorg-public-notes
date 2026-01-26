@@ -2,7 +2,7 @@
 id: ngo62jicvfp8ad9acw70ozz
 title: CTRL+y Thorg Subtree Search Shortcuts
 desc: ''
-updated: 1762815286889
+updated: 1767652044790
 created: 1762552421563
 ---
 
@@ -10,7 +10,7 @@ created: 1762552421563
 `CTRL+y` is used as the entry point for Thorg in-subtree search commands. To remember this, think of the `Y` character representing the branching of a tree.
 
 ### Pre-Req
-- [[t.ext._.setup-of-shortcuts.ctrl-y-setup.free-ctrl-y]]
+- [[t.ext.bkt.setup-of-shortcuts.ctrl-y-setup.free-ctrl-y]]
 
 ### Shortcuts Overview
 
@@ -84,4 +84,4 @@ Add the following to your [[keybindings.json|t.ext.vscode.how-to.change-your-key
   - To remember: Subtree, (Second letter of y)Ear (we used `y` for yesterday).
 
 ## Notes
-- These shortcuts mirror the [[ctrl+t|t.ext._.setup-of-shortcuts.ctrl-t-setup.add-shortcuts]] shortcut pattern but scope searches to the current note's [[hierarchy|t.ext.data.type.note.hierarchy]].
+- These shortcuts mirror the [[ctrl+t|t.ext.bkt.setup-of-shortcuts.ctrl-t-setup.add-shortcuts]] shortcut pattern but scope searches to the current note's [[hierarchy|t.ext.data.type.note.hierarchy]].

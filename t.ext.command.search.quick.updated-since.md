@@ -1,8 +1,8 @@
 ---
 id: k2uxn31cnqkwf0jhfwydcyy
-title: 'Quick Search, Updated Since'
+title: Quick Search, Updated Since
 desc: ''
-updated: 1763681037591
+updated: 1767652040871
 created: 1762461826865
 ---
 
@@ -31,7 +31,7 @@ thorg.search.quick.updated-since.2-years-ago
 
 ### Also see
 #### Shortcuts
-- [[t.ext._.setup-of-shortcuts.ctrl-t-setup]]
+- [[t.ext.bkt.setup-of-shortcuts.ctrl-t-setup]]
 
 #### Similar commands
 - [[t.ext.command.search.quick.in-subtree.updated-since]] - Similar to this command, but also filters to notes in the [[subtree|t.ext.data.type.note.subtree]].

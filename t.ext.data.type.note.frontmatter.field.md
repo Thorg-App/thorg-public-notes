@@ -2,7 +2,7 @@
 id: t9i680wr45wm7wyrpb9zr3c
 title: Frontmatter Fields
 desc: ''
-updated: 1762806072982
+updated: 1767062188281
 created: 1762805979006
 ---
 
@@ -21,13 +21,6 @@ created: 1762805979006
 </details>
 
 <details class="bordered-when-open">
-<summary>desc (description)</summary>
-
-![[t.ext.data.type.note.frontmatter.field.desc]]
-</details>
-
-
-<details class="bordered-when-open">
 <summary>updated</summary>
 
 ![[t.ext.data.type.note.frontmatter.field.updated]]
@@ -40,3 +33,9 @@ created: 1762805979006
 </details>
 
 
+### Optional:
+<details class="bordered-when-open">
+<summary>desc (description)</summary>
+
+![[t.ext.data.type.note.frontmatter.field.desc]]
+</details>

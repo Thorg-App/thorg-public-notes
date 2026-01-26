@@ -2,7 +2,7 @@
 id: 204kbxavabzre3vkydtnapi
 title: Quick Search In Subtree
 desc: ''
-updated: 1763064347273
+updated: 1767652042253
 created: 1749491286928
 command_id: thorg.search.quick.in-subtree.all
 ap: anchor_point.G6WXJZfRhtzrZ6OGsiVc819k
@@ -32,7 +32,7 @@ thorg.search.quick.in-subtree.all
 
 ### Also see
 #### Shortcuts
-- [[t.ext._.setup-of-shortcuts.ctrl-y-setup]]
+- [[t.ext.bkt.setup-of-shortcuts.ctrl-y-setup]]
 
 #### Related Tips
 ![[t.ext.command.search.quick.in-subtree._.tip]]
