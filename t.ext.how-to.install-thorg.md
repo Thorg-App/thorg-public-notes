@@ -2,15 +2,15 @@
 id: udvbjwwpnih8ox8k8g624dz
 title: Install Thorg
 desc: ''
-updated: 1766102722912
+updated: 1769453718358
 created: 1762451483739
 ---
 
 ### Pre-Requisites
 <details class="bordered-when-open">
-<summary>You currently use Dendron</summary>
+<summary>You are ok with missing functionality</summary>
 
-- Why: We are working to fill the gaps to make Thorg run standalone, but right now we rely on [Dendron](https://www.dendron.so/) for some functionality that Thorg has not exposed yet (such as note creation).
+We are filling in missing functionally to ergonomically run as standalone but for now we also recommend running [Dendron](https://www.dendron.so/) next to Thorg for some of functionality.
 </details>
 
 <details class="bordered-when-open">
