@@ -17,10 +17,10 @@ $HOME/
       {user_name}/
         qc/
          h/
-            vh/
-              vid_{vault_id}/
+            vh2/
+              vaultid_{vault_id}/
                 {machine_name}/
-                  nid_{note-id}.visit_log
+                  {note-id}.note_visit_log
 ```
 
 - `$HOME/` - Your user directory.
@@ -29,11 +29,11 @@ $HOME/
 - `{user_name}/` - [[t.ext.concept.thorgUsername]]
 - `qc/` - Stands for *quick changing*.
 - `h/` - Folder stands for *history*.
-- `vh/` - Folder stands for *visit history*.
-- `vid_{vault_id}/` - [[t.ext.data.type.vault.property.id]]
+- `vh2/` - Folder stands for *visit history v2*.
+- `vaultid_{vault_id}/` - [[t.ext.data.type.vault.property.id]]
 - `{machine_name}/` - [[t.ext.concept.machineName]]
   - Machine name exists to prevent merge conflicts when you share your visit history for the same user across multiple machines.
-- `nid_{note-id}.visit_log` - Visit log for the [[t.ext.data.type.note]], indexed by [[note_id|t.ext.data.type.note.frontmatter.field.id]].
+- `{note-id}.note_visit_log` - Visit log for the [[t.ext.data.type.note]], indexed by [[note_id|t.ext.data.type.note.frontmatter.field.id]].
   - By including the note id in the file name, we avoid storing the note id within the visits themselves (see [[t.ext.feature.visit-history.file.content-format]]).
 
 ### Recommendation
