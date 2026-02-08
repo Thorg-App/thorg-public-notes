@@ -18,7 +18,6 @@ id: ezbbhbn8i8thheiak1ng2vq
 title: Note Must Have a Valid Frontmatter
 desc: ''
 updated: 1685861421330
-created: 1685861421330
 ---
 ```
 

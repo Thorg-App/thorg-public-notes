@@ -2,7 +2,7 @@
 id: uwu6vy69aqfdsrxnhgj5w9q
 title: Get Rid of Caps Lock - And Remap it to CTRL
 desc: ''
-updated: 1762537080717
+updated: 1770561931936
 created: 1749140326606
 ---
 
@@ -20,4 +20,3 @@ Swapping is an option that can be done after you've become accustomed to using C
 - [Mac - Change the behavior of the modifier keys](https://support.apple.com/zh-sg/guide/mac-help/mchlp1011/mac)
 - Linux: Ask Claude/GPT how to do it for your distribution.
 - [Windows - Using PowerToys](https://superuser.com/a/1554452/1077967)
-  - NOTE: [[⚠️Thorg does NOT support Windows Yet⚠️|t.ext.contact-us.submit-git-hub-issue.highlighted-known-issue.no-windows-support-yet]]

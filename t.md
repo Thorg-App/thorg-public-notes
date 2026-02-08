@@ -1,10 +1,10 @@
 ---
 id: vtb96viey5ziprbtah44g51
 title: Thorg (Thought Organizer)
-desc: ''
-updated: 1767652038749
+desc: 'Thorg hierarchy root note highest level. 123'
+updated: 1770478496951
 created: 1735227165634
-private_note: For now this is going to be exposed on https://notes.thorg.app Hence
+private: For now this is going to be exposed on https://notes.thorg.app Hence
   keep this to external notes only and go to [[t.doc.internal]] for internal notes
 ---
 

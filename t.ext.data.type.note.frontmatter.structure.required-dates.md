@@ -8,13 +8,12 @@ created: 1685864781451
 
 FrontMatter must have the required date fields.
 
-At the time of this writing, the following dates are required:
+At the time of this writing, the following date is required:
 
 ```yaml
 ---
 ...
 updated: 1685864809617
-created: 1685864781451
 ---
 ```
 

@@ -2,16 +2,14 @@
 id: jof9ukipl5lexwbb0ppgdjj
 title: How to Change Thorg Configuration Value
 desc: ''
-updated: 1762990343011
+updated: 1770159352633
 created: 1762446199953
 ---
 
 Thorg configuration/settings are changed through VSCode settings.
 
 ### Open Settings
-- Open Command Palette ([[t.ext.vscode.how-to.open-command-palette]])
-- In the Command Palette, search for `Preferences: Open Settings (UI)`
-- Press Enter
+![[t.ext.configuration.how-to-change-thorg-configuration.open-vscode-settings-in-UI]]
 
 ### Filter for Thorg Settings
 In the Settings search box, type `thorg` to filter for Thorg settings.

@@ -10,6 +10,8 @@ created: 1750810319932
 - Notes in the [[subtree|t.ext.data.type.note.subtree]] of the current note
 - Notes updated since a specified time
 
+![[t.ext.data.type.note.updated]]
+
 
 ### Command IDs
 ```txt

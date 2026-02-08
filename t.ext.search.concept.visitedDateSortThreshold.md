@@ -2,8 +2,11 @@
 id: vlmnvb2tpg9shwalt2wvarg
 title: Visited Date Sort Threshold
 desc: ''
-updated: 1762445361066
+updated: 1770305402567
 created: 1755735295857
+ap:
+  impl: anchor_point.a4Nx2KKmEV1TJPAJcKVJIKuQ.E
+  test_case: anchor_point.yS7AXEM4KNvJpLggtFpgqcGb.E
 ---
 
 **Concept: Visit Date Sort Threshold**
@@ -38,8 +41,6 @@ In this example, the search response will be:
 2. Note C (most recent visit out of B, C)
 3. Note B
 4. Note D (most recent visit but low match score)
-
-
 
 
 

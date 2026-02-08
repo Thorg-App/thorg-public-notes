@@ -21,7 +21,6 @@ id: ezbbhbn8i8thheiak1ng2vq
 title: "Note title"
 desc: ''
 updated: 1685861421330
-created: 1685861421330
 ---
 Above this line is the frontmatter. This line and below is the markdown content.
 ```

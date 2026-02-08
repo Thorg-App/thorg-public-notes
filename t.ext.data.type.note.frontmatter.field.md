@@ -13,27 +13,13 @@ created: 1762805979006
 ![[t.ext.data.type.note.frontmatter.field.id]]
 </details>
 
-### For now required as well:
+### Optional:
 <details class="bordered-when-open">
 <summary>title</summary>
 
 ![[t.ext.data.type.note.frontmatter.field.title]]
 </details>
 
-<details class="bordered-when-open">
-<summary>updated</summary>
-
-![[t.ext.data.type.note.frontmatter.field.updated]]
-</details>
-
-<details class="bordered-when-open">
-<summary>created</summary>
-
-![[t.ext.data.type.note.frontmatter.field.created]]
-</details>
-
-
-### Optional:
 <details class="bordered-when-open">
 <summary>desc (description)</summary>
 

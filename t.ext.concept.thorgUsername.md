@@ -2,9 +2,11 @@
 id: oymhwzewnffkk0stcymyssy
 title: Thorg Username (Concept)
 desc: ''
-updated: 1762475401915
+updated: 1770163406942
 created: 1757538227583
-ap: anchor_point.jBdPbL6yiAneesEEatUzDX79
+ap: 
+    ts: anchor_point.jBdPbL6yiAneesEEatUzDX79.E
+    kt: anchor_point.FUyHrXSH3ZeKcnm0HAdY0UyT.E
 ---
 
 

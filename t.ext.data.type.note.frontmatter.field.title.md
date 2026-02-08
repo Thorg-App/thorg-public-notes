@@ -8,6 +8,8 @@ created: 1690851780263
 
 The frontmatter note title is stored within the FrontMatter of a note and is used to set a particular value for [[t.ext.data.type.note.data.title]].
 
+**Optional field**: When not set, the title is inferred from the note name (last segment, with `-` replaced by spaces and title-cased).
+
 An example note title set in frontmatter:
 
 ```yml

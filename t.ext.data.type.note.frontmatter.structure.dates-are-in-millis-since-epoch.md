@@ -11,7 +11,6 @@ FrontMatter date fields such as:
 ---
 ...
 updated: 1685895360737
-created: 1685895360737
 ---
 ```
 

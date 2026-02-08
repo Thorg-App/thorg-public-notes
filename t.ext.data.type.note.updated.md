@@ -6,13 +6,12 @@ updated: 1755735238057
 created: 1724976956489
 ---
 
-Front-matter stored value that is used by the app to determine when the note was updated.
+The note's `updated` timestamp is derived from the OS filesystem modification time (mtime).
 
-```yml
----
-updated: 1724977062712
-...
----
-```
+This approach simplifies note management while providing accurate modification tracking. When you save changes to a note file, the OS automatically updates the file's modification time.
 
-You may ask yourself: the file has an update timestamp in its metadata, so why do we need this? The main use case is to differentiate between refactoring updates and actual note updates. For example, a note can contain a link to a different note that gets renamed. In such cases, the file metadata update date would be increased, but we would want to keep the `updated` date as it was. 
+### Git Considerations
+
+When checking out files from git, all files may have their modification time set to the checkout time (not their original modification time). To preserve accurate update timestamps, consider using a tool to restore modification times.
+
+![[t.ext.tip.git.restore-modification-time-mtime]]

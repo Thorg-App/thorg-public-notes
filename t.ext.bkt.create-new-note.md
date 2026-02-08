@@ -2,8 +2,10 @@
 id: kag931mwt7gof66d2sf2rds79
 title: Create New Note
 desc: ''
-updated: 1767293961984
+updated: 1770392606327
 created: 1767292261503
+ap: 
+    ts_NoteCreationEligibility: anchor_point.lQE2ODmtkUzFCK7EALSQhrSF.E
 ---
 
 ### Create new note from quick search

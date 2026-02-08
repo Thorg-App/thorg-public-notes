@@ -8,6 +8,8 @@ created: 1762461826865
 
 [[Searches|t.ext.command.search._.search-definition]] across notes filtered to those updated within specific time ranges (varies by command).
 
+![[t.ext.data.type.note.updated]]
+
 ### Command IDs
 ```txt
 thorg.search.quick.updated-since.1-hour-ago

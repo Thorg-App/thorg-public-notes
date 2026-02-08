@@ -2,17 +2,16 @@
 id: f52js9d921s0tktii23sxbe
 title: How to install VSIX file as VSCode Plugin
 desc: ''
-updated: 1764819726183
+updated: 1770525794322
 created: 1764184560373
 ---
 
-There are two ways to install the VSIX file that you downloaded as part of [[t.ext.how-to.install-thorg]]
+> **Note:** Most users should install Thorg directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=thorgapp.thorg-vscode). These instructions are for manual VSIX installation (e.g., from [[t.ext.how-to.install-thorg.previous-releases]]).
 
 ### Using UI
 ![](./assets/submodule/for_external/Screenshot-2025_11_26T13_23_13.png){max-width: 500px, display: block, margin: 0 auto, border: 5px solid black}
 
-Then choose the VSIX file that you downloaded as part of [[t.ext.how-to.install-thorg]].
-
+Then choose the VSIX file.
 
 ### Using CLI
 ```bash
